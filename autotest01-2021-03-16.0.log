@@ -1,0 +1,13 @@
+2021-03-16 09:30:13.469 [ INFO ] --- autotest.MyApplication [48] : Starting MyApplication on DESKTOP-D2D2KE2 with PID 13668 (C:\download\workspace\autotest01\target\classes started by Administrator in C:\download\workspace\autotest01)
+2021-03-16 09:30:13.472 [ DEBUG] --- autotest.MyApplication [51] : Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
+2021-03-16 09:30:13.472 [ INFO ] --- autotest.MyApplication [665] : The following profiles are active: dev
+2021-03-16 09:31:42.029 [ INFO ] --- autotest.MyApplication [48] : Starting MyApplication on DESKTOP-D2D2KE2 with PID 9652 (C:\download\workspace\autotest01\target\classes started by Administrator in C:\download\workspace\autotest01)
+2021-03-16 09:31:42.033 [ DEBUG] --- autotest.MyApplication [51] : Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
+2021-03-16 09:31:42.034 [ INFO ] --- autotest.MyApplication [661] : No active profile set, falling back to default profiles: default
+2021-03-16 09:33:40.184 [ INFO ] --- autotest.MyApplication [48] : Starting MyApplication on DESKTOP-D2D2KE2 with PID 15240 (C:\download\workspace\autotest01\target\classes started by Administrator in C:\download\workspace\autotest01)
+2021-03-16 09:33:40.187 [ DEBUG] --- autotest.MyApplication [51] : Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
+2021-03-16 09:33:40.187 [ INFO ] --- autotest.MyApplication [661] : No active profile set, falling back to default profiles: default
+2021-03-16 09:40:06.031 [ INFO ] --- autotest.MyApplication [48] : Starting MyApplication on DESKTOP-D2D2KE2 with PID 8312 (C:\download\workspace\autotest01\target\classes started by Administrator in C:\download\workspace\autotest01)
+2021-03-16 09:40:06.034 [ DEBUG] --- autotest.MyApplication [51] : Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
+2021-03-16 09:40:06.035 [ INFO ] --- autotest.MyApplication [665] : The following profiles are active: dev
+2021-03-16 09:40:07.429 [ INFO ] --- autotest.MyApplication [57] : Started MyApplication in 1.694 seconds (JVM running for 2.159)

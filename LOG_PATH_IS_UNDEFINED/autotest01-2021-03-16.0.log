@@ -1,0 +1,6 @@
+2021-03-16 09:25:12.598 [ INFO ] --- autotest.MyApplication [48] : Starting MyApplication on DESKTOP-D2D2KE2 with PID 5408 (C:\download\workspace\autotest01\target\classes started by Administrator in C:\download\workspace\autotest01)
+2021-03-16 09:25:12.603 [ DEBUG] --- autotest.MyApplication [51] : Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
+2021-03-16 09:25:12.603 [ INFO ] --- autotest.MyApplication [661] : No active profile set, falling back to default profiles: default
+2021-03-16 09:36:53.887 [ INFO ] --- autotest.MyApplication [48] : Starting MyApplication on DESKTOP-D2D2KE2 with PID 17196 (C:\download\workspace\autotest01\target\classes started by Administrator in C:\download\workspace\autotest01)
+2021-03-16 09:36:53.892 [ DEBUG] --- autotest.MyApplication [51] : Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
+2021-03-16 09:36:53.892 [ INFO ] --- autotest.MyApplication [661] : No active profile set, falling back to default profiles: default
