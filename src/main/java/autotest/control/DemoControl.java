@@ -11,7 +11,7 @@ import java.util.List;
 @RestController
 @RequestMapping("/demo")
 public class DemoControl {
-    private List<HashMap<String,String>> list=new LinkedList<HashMap<String,String>>();
+    private static List<HashMap<String,String>> list=new LinkedList<HashMap<String,String>>();
     @RequestMapping(value = "/login", method = RequestMethod.GET)
     public String loginGet(String username, String password) {
         String result= "username"+username+",password"+password;

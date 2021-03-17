@@ -1,0 +1,4 @@
+2021-03-17 00:39:27.856 [ INFO ] --- autotest.MyApplication [48] : Starting MyApplication on DESKTOP-D2D2KE2 with PID 1840 (C:\download\workspace\autotest01\target\classes started by Administrator in C:\download\workspace\autotest01)
+2021-03-17 00:39:27.856 [ DEBUG] --- autotest.MyApplication [51] : Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
+2021-03-17 00:39:27.856 [ INFO ] --- autotest.MyApplication [665] : The following profiles are active: dev
+2021-03-17 00:39:29.353 [ INFO ] --- autotest.MyApplication [57] : Started MyApplication in 1.887 seconds (JVM running for 3.227)

@@ -11,3 +11,15 @@
 2021-03-16 09:40:06.034 [ DEBUG] --- autotest.MyApplication [51] : Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
 2021-03-16 09:40:06.035 [ INFO ] --- autotest.MyApplication [665] : The following profiles are active: dev
 2021-03-16 09:40:07.429 [ INFO ] --- autotest.MyApplication [57] : Started MyApplication in 1.694 seconds (JVM running for 2.159)
+2021-03-16 20:42:26.958 [ INFO ] --- autotest.MyApplication [48] : Starting MyApplication on DESKTOP-D2D2KE2 with PID 18092 (C:\download\workspace\autotest01\target\classes started by Administrator in C:\download\workspace\autotest01)
+2021-03-16 20:42:26.964 [ DEBUG] --- autotest.MyApplication [51] : Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
+2021-03-16 20:42:26.965 [ INFO ] --- autotest.MyApplication [665] : The following profiles are active: dev
+2021-03-16 20:42:28.414 [ INFO ] --- autotest.MyApplication [57] : Started MyApplication in 1.86 seconds (JVM running for 2.531)
+2021-03-16 21:34:14.458 [ INFO ] --- autotest.MyApplication [48] : Starting MyApplication on DESKTOP-D2D2KE2 with PID 7240 (C:\download\workspace\autotest01\target\classes started by Administrator in C:\download\workspace\autotest01)
+2021-03-16 21:34:14.464 [ DEBUG] --- autotest.MyApplication [51] : Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
+2021-03-16 21:34:14.464 [ INFO ] --- autotest.MyApplication [665] : The following profiles are active: dev
+2021-03-16 21:34:15.922 [ INFO ] --- autotest.MyApplication [57] : Started MyApplication in 1.848 seconds (JVM running for 2.506)
+2021-03-16 21:45:12.373 [ INFO ] --- autotest.MyApplication [48] : Starting MyApplication on DESKTOP-D2D2KE2 with PID 9668 (C:\download\workspace\autotest01\target\classes started by Administrator in C:\download\workspace\autotest01)
+2021-03-16 21:45:12.380 [ DEBUG] --- autotest.MyApplication [51] : Running with Spring Boot v1.4.1.RELEASE, Spring v4.3.3.RELEASE
+2021-03-16 21:45:12.381 [ INFO ] --- autotest.MyApplication [665] : The following profiles are active: dev
+2021-03-16 21:45:13.739 [ INFO ] --- autotest.MyApplication [57] : Started MyApplication in 1.655 seconds (JVM running for 2.183)

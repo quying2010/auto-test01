@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6aff0af3-3878-46f1-84d7-f86cc050fb43" name="Default Changelist" comment="" />
+    <list default="true" id="6aff0af3-3878-46f1-84d7-f86cc050fb43" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotest01-2021-03-16.0.log" beforeDir="false" afterPath="$PROJECT_DIR$/autotest01-2021-03-16.0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/autotest/control/DemoControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/autotest/control/DemoControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/autotest/control/DemoControl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/autotest/control/DemoControl.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +46,9 @@
       <find>spring-boot-starter-web</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -52,13 +63,8 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="2" />
-    <option name="width" value="2580" />
-    <option name="height" value="1530" />
-  </component>
   <component name="ProjectId" id="1pq0gjsB5Fdrmym8yVOJ1mjb2iP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -72,6 +78,7 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1615865460120" />
@@ -124,11 +131,47 @@
       <workItem from="1615866567826" duration="678000" />
       <workItem from="1615869460322" duration="119000" />
       <workItem from="1615895427309" duration="209000" />
+      <workItem from="1615901325853" duration="1258000" />
+      <workItem from="1615912709355" duration="476000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="809" height="174" key="GridCell.Tab.0.bottom" timestamp="1615913188920">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="809" height="174" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1615913188920" />
+    <state width="809" height="174" key="GridCell.Tab.0.center" timestamp="1615913188920">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="809" height="174" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1615913188920" />
+    <state width="809" height="174" key="GridCell.Tab.0.left" timestamp="1615913188904">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="809" height="174" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1615913188904" />
+    <state width="809" height="174" key="GridCell.Tab.0.right" timestamp="1615913188920">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="809" height="174" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1615913188920" />
+    <state width="809" height="174" key="GridCell.Tab.1.bottom" timestamp="1615913188920">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="809" height="174" key="GridCell.Tab.1.bottom/0.0.1280.760@0.0.1280.760" timestamp="1615913188920" />
+    <state width="809" height="174" key="GridCell.Tab.1.center" timestamp="1615913188920">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="809" height="174" key="GridCell.Tab.1.center/0.0.1280.760@0.0.1280.760" timestamp="1615913188920" />
+    <state width="809" height="174" key="GridCell.Tab.1.left" timestamp="1615913188920">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="809" height="174" key="GridCell.Tab.1.left/0.0.1280.760@0.0.1280.760" timestamp="1615913188920" />
+    <state width="809" height="174" key="GridCell.Tab.1.right" timestamp="1615913188920">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="809" height="174" key="GridCell.Tab.1.right/0.0.1280.760@0.0.1280.760" timestamp="1615913188920" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
