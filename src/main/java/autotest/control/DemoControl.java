@@ -11,7 +11,7 @@ import java.util.List;
 @RestController
 @RequestMapping("/demo")
 public class DemoControl {
-    private List<HashMap<String,String>> list=new LinkedList<HashMap<String,String>>();
+  //  private List<HashMap<String,String>> list=new LinkedList<HashMap<String,String>>();
     @RequestMapping(value = "/login", method = RequestMethod.GET)
     public String loginGet(String username, String password) {
         String result= "username"+username+",password"+password;
@@ -20,11 +20,11 @@ public class DemoControl {
     @RequestMapping(value = "/loginMem", method = RequestMethod.GET)
     public String loginMem(String username, String password) {
         String result= "username"+username+",password"+password;
-        for(int i=0;i<100000;i++) {
-            HashMap<String, String> map = new HashMap<String, String>();
-            map.put(username,password);
-            list.add(map);
-        }
+//         for(int i=0;i<100000;i++) {
+//             HashMap<String, String> map = new HashMap<String, String>();
+//             map.put(username,password);
+//             list.add(map);
+//         }
         return result;
     }
 }
